@@ -1,9 +1,5 @@
 # FolderScript
 
-## Explanation
-
-Malicious software Script
-
 ## Installation
 
 You can download the necessary requirements using the modules file.
