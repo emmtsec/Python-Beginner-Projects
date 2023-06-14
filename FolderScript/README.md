@@ -8,11 +8,6 @@ You can download the necessary requirements using the modules file.
 Linux: pip3 install -r requirements.txt
 ```
 
-
-```bash
-Windows: pip install -r requirements.txt
-```
-
 ## Usage
 
 ```bash
