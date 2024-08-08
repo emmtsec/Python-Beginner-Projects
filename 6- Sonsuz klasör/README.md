@@ -11,7 +11,7 @@ Linux: pip3 install -r requirements.txt
 ## Usage
 
 ```bash
-python3 Bomb.py
+python3 folder.py
 ```
 
 ## License
